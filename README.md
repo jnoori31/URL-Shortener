@@ -13,6 +13,7 @@ MongoDB https://www.npmjs.com/package/mongodb
 # Installing dependicies
 
 npm i express mongoose ejs
+terminal command mongod to see if MongoDB is set up correctly
 
 # Dev dependicies
 
@@ -25,3 +26,10 @@ npm i shortid
 # Responsive styling
 
 bootstrap
+
+# Next steps
+
+Use either Vue.js // React.js framework
+View refreshes to show number of clicks without a hard-refresh
+TDD using Jest
+Typescript
